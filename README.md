@@ -1,4 +1,4 @@
-#Denne fork er lavet så frontend kunne deploy deres hjemmeside da det krævede at en fra frontend var ejeren af et repository for at det kunne deployes med netlify
+# Denne fork er lavet så frontend kunne deploy deres hjemmeside da det krævede at en fra frontend var ejeren af et repository for at det kunne deployes med netlify
 
 # SEP4
 
